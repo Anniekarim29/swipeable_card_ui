@@ -30,9 +30,8 @@ This app demonstrates **realistic credit card interactions** with fluid transiti
 
 ##  Getting Started
 
-1. **Clone the repo**
+1. **Clone the repo**   https://github.com/Anniekarim29/swipeable_card_ui
    ```bash
-  https://github.com/Anniekarim29/swipeable_card_ui
    cd swipeable_credit_cards
    ```
 
