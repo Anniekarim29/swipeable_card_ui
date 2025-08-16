@@ -1,5 +1,5 @@
 
-# 💳 Swipeable Credit Cards – Flutter
+#  Swipeable Credit Cards – Flutter
 
 A beautifully designed **credit card UI app** built with Flutter, featuring smooth swipe animations, elegant gradients, and shimmer effects for a premium feel.
 
@@ -7,7 +7,7 @@ This app demonstrates **realistic credit card interactions** with fluid transiti
 
 ---
 
-## 📱 Screenshots
+##  Screenshots
 
 <div align="left">
   <img src="assets/card1.jpg" width="250"/>
